@@ -1,0 +1,1663 @@
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>San Luis Valley Brewing Co</name>
+      <description>San Luis Valley Brewing Co</description>
+      <Point>
+        <coordinates>-105.865891,37.468241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arvada Beer Co</name>
+      <description>Arvada Beer Co</description>
+      <Point>
+        <coordinates>-105.081415,39.799174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Odyssey Beerwerks</name>
+      <description>Odyssey Beerwerks</description>
+      <Point>
+        <coordinates>-105.056394,39.798802,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aspen Brewing Co</name>
+      <description>Aspen Brewing Co</description>
+      <Point>
+        <coordinates>-106.818257,39.193251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CODA Brewing Co</name>
+      <description>CODA Brewing Co</description>
+      <Point>
+        <coordinates>-104.837562,39.748559,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dad &amp; Dudes Breweria</name>
+      <description>Dad &amp; Dudes Breweria</description>
+      <Point>
+        <coordinates>-105.132718,39.972737,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dry Dock Brewing Co</name>
+      <description>Dry Dock Brewing Co</description>
+      <Point>
+        <coordinates>-104.812303,39.653008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dry Dock Brewing Co (Canoe Room)</name>
+      <description>Dry Dock Brewing Co (Canoe Room)</description>
+      <Point>
+        <coordinates>-104.772309,39.756135,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mu Brewery</name>
+      <description>Mu Brewery</description>
+      <Point>
+        <coordinates>-104.734874,39.739897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bottom Shelf Brewery</name>
+      <description>Bottom Shelf Brewery</description>
+      <Point>
+        <coordinates>-107.599269,37.225321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berthoud Brewery</name>
+      <description>Berthoud Brewery</description>
+      <Point>
+        <coordinates>-105.085021,40.304817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Star Brewing</name>
+      <description>City Star Brewing</description>
+      <Point>
+        <coordinates>-105.079852,40.305068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Asher Brewing Co</name>
+      <description>Asher Brewing Co</description>
+      <Point>
+        <coordinates>-105.20518,40.06031,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avery Brewing</name>
+      <description>Avery Brewing</description>
+      <Point>
+        <coordinates>-105.240021,40.014561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avery Brewing Co</name>
+      <description>Avery Brewing Co</description>
+      <Point>
+        <coordinates>-105.203299,40.062681,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BJ&#8217;s Restaurant &amp; Brewery</name>
+      <description>BJ&#8217;s Restaurant &amp; Brewery</description>
+      <Point>
+        <coordinates>-105.258194,40.015505,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulder Beer Co</name>
+      <description>Boulder Beer Co</description>
+      <Point>
+        <coordinates>-105.248525,40.026108,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BRU Handbuilt Ales &amp; Eats</name>
+      <description>BRU Handbuilt Ales &amp; Eats</description>
+      <Point>
+        <coordinates>-105.228375,40.014534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fate Brewing Co &amp; Alehouse</name>
+      <description>Fate Brewing Co &amp; Alehouse</description>
+      <Point>
+        <coordinates>-105.246516,40.014663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Finkel &amp; Garf Brewing Co</name>
+      <description>Finkel &amp; Garf Brewing Co</description>
+      <Point>
+        <coordinates>-105.202104,40.073167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J Wells Brewery</name>
+      <description>J Wells Brewery</description>
+      <Point>
+        <coordinates>-105.238307,40.024172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kettle and Stone Brewing Co</name>
+      <description>Kettle and Stone Brewing Co</description>
+      <Point>
+        <coordinates>-105.195363,40.078968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Planet Beer Co</name>
+      <description>New Planet Beer Co</description>
+      <Point>
+        <coordinates>-105.202735,40.073539,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sanitas Brewing Co</name>
+      <description>Sanitas Brewing Co</description>
+      <Point>
+        <coordinates>-105.246956,40.02213,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shine Restaurant &amp; Gathering Place</name>
+      <description>Shine Restaurant &amp; Gathering Place</description>
+      <Point>
+        <coordinates>-105.278826,40.018422,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southern Sun Pub &amp; Brewery</name>
+      <description>Southern Sun Pub &amp; Brewery</description>
+      <Point>
+        <coordinates>-105.242962,39.977955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Twisted Pine Brewing Co</name>
+      <description>Twisted Pine Brewing Co</description>
+      <Point>
+        <coordinates>-105.251414,40.020081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upslope Brewing Co</name>
+      <description>Upslope Brewing Co</description>
+      <Point>
+        <coordinates>-105.270692,40.023036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upslope Brewing Co</name>
+      <description>Upslope Brewing Co</description>
+      <Point>
+        <coordinates>-105.218989,40.02016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vindication Brewing Co</name>
+      <description>Vindication Brewing Co</description>
+      <Point>
+        <coordinates>-105.195363,40.078968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Flanders Brewing Co</name>
+      <description>West Flanders Brewing Co</description>
+      <Point>
+        <coordinates>-105.281079,40.017764,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wild Woods Brewery</name>
+      <description>Wild Woods Brewery</description>
+      <Point>
+        <coordinates>-105.227494,40.016312,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Broken Compass Brewery</name>
+      <description>Broken Compass Brewery</description>
+      <Point>
+        <coordinates>-106.052996,39.515844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flood Stage Ale Works</name>
+      <description>Flood Stage Ale Works</description>
+      <Point>
+        <coordinates>-104.82195,39.985323,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4 Noses Brewing Co</name>
+      <description>4 Noses Brewing Co</description>
+      <Point>
+        <coordinates>-105.086836,39.903688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Choice Brewing Co</name>
+      <description>Big Choice Brewing Co</description>
+      <Point>
+        <coordinates>-105.076913,39.910338,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C.B. &amp; Potts Restaurant &amp; Brewery</name>
+      <description>C.B. &amp; Potts Restaurant &amp; Brewery</description>
+      <Point>
+        <coordinates>-105.133499,39.92805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gordon Biersch Brewery Restaurant</name>
+      <description>Gordon Biersch Brewery Restaurant</description>
+      <Point>
+        <coordinates>-105.133383,39.930282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nighthawk Brewery</name>
+      <description>Nighthawk Brewery</description>
+      <Point>
+        <coordinates>-105.103894,39.922121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wonderland Brewing Co</name>
+      <description>Wonderland Brewing Co</description>
+      <Point>
+        <coordinates>-105.056741,39.914339,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eddyline Pub and Brewery</name>
+      <description>Eddyline Pub and Brewery</description>
+      <Point>
+        <coordinates>-106.179938,38.885032,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Royal Gorge Brewing Co</name>
+      <description>Royal Gorge Brewing Co</description>
+      <Point>
+        <coordinates>-105.241932,38.44005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carbondale Beer Works</name>
+      <description>Carbondale Beer Works</description>
+      <Point>
+        <coordinates>-107.213339,39.400599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roaring Fork Beer Co</name>
+      <description>Roaring Fork Beer Co</description>
+      <Point>
+        <coordinates>-107.223897,39.409958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockyard Brewing Co in the American Grill</name>
+      <description>Rockyard Brewing Co in the American Grill</description>
+      <Point>
+        <coordinates>-104.869173,39.40948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Spruce Brewing Co</name>
+      <description>Blue Spruce Brewing Co</description>
+      <Point>
+        <coordinates>-104.93994,39.565969,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Two22 Brew</name>
+      <description>Two22 Brew</description>
+      <Point>
+        <coordinates>-104.76322,39.638506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bristol Brewing Co (The Bristol Pub)</name>
+      <description>Bristol Brewing Co (The Bristol Pub)</description>
+      <Point>
+        <coordinates>-104.826604,38.810479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Mountain Brewery</name>
+      <description>Colorado Mountain Brewery</description>
+      <Point>
+        <coordinates>-105.023104,38.992478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Mountain Brewery at the Roundhouse</name>
+      <description>Colorado Mountain Brewery at the Roundhouse</description>
+      <Point>
+        <coordinates>-104.859109,38.840483,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fieldhouse Brewing Co</name>
+      <description>Fieldhouse Brewing Co</description>
+      <Point>
+        <coordinates>-104.823821,38.826574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fossil Brewing Co</name>
+      <description>Fossil Brewing Co</description>
+      <Point>
+        <coordinates>-104.867763,38.846417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gold Camp Brewing Co</name>
+      <description>Gold Camp Brewing Co</description>
+      <Point>
+        <coordinates>-104.824184,38.81976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Storm Brewing</name>
+      <description>Great Storm Brewing</description>
+      <Point>
+        <coordinates>-104.817936,38.889582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iron Bird Brewing Co</name>
+      <description>Iron Bird Brewing Co</description>
+      <Point>
+        <coordinates>-104.821942,38.828143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lofty Brewing Co</name>
+      <description>Lofty Brewing Co</description>
+      <Point>
+        <coordinates>-104.811143,38.872766,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nano 108 Brewing Co</name>
+      <description>Nano 108 Brewing Co</description>
+      <Point>
+        <coordinates>-104.718927,38.866206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red Leg Brewing Co</name>
+      <description>Red Leg Brewing Co</description>
+      <Point>
+        <coordinates>-104.841027,38.900399,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rock Bottom Restaurant - Brewery</name>
+      <description>Rock Bottom Restaurant - Brewery</description>
+      <Point>
+        <coordinates>-104.716964,38.881026,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rocky Mountain Brewing Co</name>
+      <description>Rocky Mountain Brewing Co</description>
+      <Point>
+        <coordinates>-104.715785,38.841216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smiling Toad Brewery</name>
+      <description>Smiling Toad Brewery</description>
+      <Point>
+        <coordinates>-104.762971,38.835809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Storybook Brewing Co</name>
+      <description>Storybook Brewing Co</description>
+      <Point>
+        <coordinates>-104.812743,38.877187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trinity Brewing Co</name>
+      <description>Trinity Brewing Co</description>
+      <Point>
+        <coordinates>-104.855001,38.896694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J. Fargo's Family Dining &amp; Micro Brewery</name>
+      <description>J. Fargo's Family Dining &amp; Micro Brewery</description>
+      <Point>
+        <coordinates>-108.569596,37.348932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Three Barrel Brewing Co</name>
+      <description>Three Barrel Brewing Co</description>
+      <Point>
+        <coordinates>-106.314815,37.718397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Three Barrel Brewing Co</name>
+      <description>Three Barrel Brewing Co</description>
+      <Point>
+        <coordinates>-106.354666,37.678117,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alpine Dog Brewing Co</name>
+      <description>Alpine Dog Brewing Co</description>
+      <Point>
+        <coordinates>-104.974866,39.740085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baere Brewing Co</name>
+      <description>Baere Brewing Co</description>
+      <Point>
+        <coordinates>-104.987381,39.721268,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beryl&#8217;s Beer Co</name>
+      <description>Beryl&#8217;s Beer Co</description>
+      <Point>
+        <coordinates>-104.980743,39.764714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Shirt Brewing Co</name>
+      <description>Black Shirt Brewing Co</description>
+      <Point>
+        <coordinates>-104.973198,39.769443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Sky Brewery</name>
+      <description>Black Sky Brewery</description>
+      <Point>
+        <coordinates>-104.998502,39.723999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Moon Brewery at the Sandlot</name>
+      <description>Blue Moon Brewery at the Sandlot</description>
+      <Point>
+        <coordinates>-104.994272,39.754334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caution Brewery</name>
+      <description>Caution Brewery</description>
+      <Point>
+        <coordinates>-104.842921,39.77105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chain Reaction Brewing Co</name>
+      <description>Chain Reaction Brewing Co</description>
+      <Point>
+        <coordinates>-105.001598,39.698914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Comrade Brewing Co</name>
+      <description>Comrade Brewing Co</description>
+      <Point>
+        <coordinates>-104.897797,39.674946,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Copper Kettle Brewing</name>
+      <description>Copper Kettle Brewing</description>
+      <Point>
+        <coordinates>-104.891778,39.695175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Creede Brewing Co</name>
+      <description>Creede Brewing Co</description>
+      <Point>
+        <coordinates>-104.977988,39.829291,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crooked Stave Artisan Beer Project</name>
+      <description>Crooked Stave Artisan Beer Project</description>
+      <Point>
+        <coordinates>-104.981054,39.768864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>De Steeg Brewing Co</name>
+      <description>De Steeg Brewing Co</description>
+      <Point>
+        <coordinates>-105.04391,39.775834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Declaration Brewing Co</name>
+      <description>Declaration Brewing Co</description>
+      <Point>
+        <coordinates>-104.991037,39.67978,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Denver Beer Co</name>
+      <description>Denver Beer Co</description>
+      <Point>
+        <coordinates>-105.006629,39.758606,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Denver Beer Co</name>
+      <description>Denver Beer Co</description>
+      <Point>
+        <coordinates>-104.999443,39.777539,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Denver Pearl Brewing Co</name>
+      <description>Denver Pearl Brewing Co</description>
+      <Point>
+        <coordinates>-104.980563,39.68261,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diebolt Brewing Co</name>
+      <description>Diebolt Brewing Co</description>
+      <Point>
+        <coordinates>-105.003042,39.769965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Epic Brewing Co</name>
+      <description>Epic Brewing Co</description>
+      <Point>
+        <coordinates>-104.981394,39.762958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Factotum Brewhouse</name>
+      <description>Factotum Brewhouse</description>
+      <Point>
+        <coordinates>-105.001834,39.769836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fermaentra Brewing Co</name>
+      <description>Fermaentra Brewing Co</description>
+      <Point>
+        <coordinates>-104.967441,39.678558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fiction Beer Co</name>
+      <description>Fiction Beer Co</description>
+      <Point>
+        <coordinates>-104.905797,39.740152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Former Future Brewing Co</name>
+      <description>Former Future Brewing Co</description>
+      <Point>
+        <coordinates>-104.987391,39.693162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goldspot Brewing Co</name>
+      <description>Goldspot Brewing Co</description>
+      <Point>
+        <coordinates>-105.034499,39.786922,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grandma&#8217;s Place Brewing Co</name>
+      <description>Grandma&#8217;s Place Brewing Co</description>
+      <Point>
+        <coordinates>-104.98746,39.685592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hogshead 54 Brewing Co</name>
+      <description>Hogshead 54 Brewing Co</description>
+      <Point>
+        <coordinates>-105.044755,39.758417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jagged Mountain Craft Brewery</name>
+      <description>Jagged Mountain Craft Brewery</description>
+      <Point>
+        <coordinates>-104.991072,39.75191,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joyride Brewing Co</name>
+      <description>Joyride Brewing Co</description>
+      <Point>
+        <coordinates>-105.053231,39.753045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lost Highway Brewing Co</name>
+      <description>Lost Highway Brewing Co</description>
+      <Point>
+        <coordinates>-104.980859,39.739949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LowDown Brewery + Kitchen</name>
+      <description>LowDown Brewery + Kitchen</description>
+      <Point>
+        <coordinates>-104.986152,39.729065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mockery Brewing Co</name>
+      <description>Mockery Brewing Co</description>
+      <Point>
+        <coordinates>-104.608005,39.746966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Our Mutual Friend Malt &amp; Brew</name>
+      <description>Our Mutual Friend Malt &amp; Brew</description>
+      <Point>
+        <coordinates>-104.982783,39.760465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Platt Park Brewing Co</name>
+      <description>Platt Park Brewing Co</description>
+      <Point>
+        <coordinates>-104.980563,39.68261,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prost Brewing Co</name>
+      <description>Prost Brewing Co</description>
+      <Point>
+        <coordinates>-105.004106,39.760435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ratio Beerworks</name>
+      <description>Ratio Beerworks</description>
+      <Point>
+        <coordinates>-104.981431,39.761488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Renegade Brewing Co</name>
+      <description>Renegade Brewing Co</description>
+      <Point>
+        <coordinates>-104.999521,39.7305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>River North Brewery</name>
+      <description>River North Brewery</description>
+      <Point>
+        <coordinates>-104.989492,39.758037,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sleeping Giant Brewing Co</name>
+      <description>Sleeping Giant Brewing Co</description>
+      <Point>
+        <coordinates>-105.017498,39.723881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station 26 Brewing Co</name>
+      <description>Station 26 Brewing Co</description>
+      <Point>
+        <coordinates>-104.906358,39.769346,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Strange Craft Beer Co</name>
+      <description>Strange Craft Beer Co</description>
+      <Point>
+        <coordinates>-105.015953,39.737465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TRVE Brewing Co</name>
+      <description>TRVE Brewing Co</description>
+      <Point>
+        <coordinates>-104.987561,39.719787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vine Street Pub &amp; Brewery</name>
+      <description>Vine Street Pub &amp; Brewery</description>
+      <Point>
+        <coordinates>-104.962236,39.74322,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wits End Brewing Co</name>
+      <description>Wits End Brewing Co</description>
+      <Point>
+        <coordinates>-105.016926,39.72033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zephyr Brewing Co</name>
+      <description>Zephyr Brewing Co</description>
+      <Point>
+        <coordinates>-104.986314,39.759416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Animas Brewing Co</name>
+      <description>Animas Brewing Co</description>
+      <Point>
+        <coordinates>-107.87703,37.28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BReW Pub &amp; Kitchen</name>
+      <description>BReW Pub &amp; Kitchen</description>
+      <Point>
+        <coordinates>-107.882961,37.270336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SKA Brewing Co</name>
+      <description>SKA Brewing Co</description>
+      <Point>
+        <coordinates>-115.060573,38.913553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Steamworks Brewing Co</name>
+      <description>Steamworks Brewing Co</description>
+      <Point>
+        <coordinates>-107.879731,37.272034,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7 Hermits Brewing Co</name>
+      <description>7 Hermits Brewing Co</description>
+      <Point>
+        <coordinates>-106.833444,39.64039,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonfire Brewing</name>
+      <description>Bonfire Brewing</description>
+      <Point>
+        <coordinates>-106.821159,39.656173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crazy Mountain Beer Co</name>
+      <description>Crazy Mountain Beer Co</description>
+      <Point>
+        <coordinates>-106.587723,39.648882,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brew on Broadway</name>
+      <description>Brew on Broadway</description>
+      <Point>
+        <coordinates>-104.987694,39.650656,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C.B. &amp; Potts Restaurant &amp; Brewery</name>
+      <description>C.B. &amp; Potts Restaurant &amp; Brewery</description>
+      <Point>
+        <coordinates>-104.894426,39.59726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint Patrick's Brewing Co</name>
+      <description>Saint Patrick's Brewing Co</description>
+      <Point>
+        <coordinates>-105.009984,39.630116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Echo Brewing Co</name>
+      <description>Echo Brewing Co</description>
+      <Point>
+        <coordinates>-105.047433,40.050256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Industrial Revolution Brewing Co</name>
+      <description>Industrial Revolution Brewing Co</description>
+      <Point>
+        <coordinates>-105.04838,40.051598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Mine Brewing Co</name>
+      <description>Old Mine Brewing Co</description>
+      <Point>
+        <coordinates>-105.047419,40.048983,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estes Park Brewery</name>
+      <description>Estes Park Brewery</description>
+      <Point>
+        <coordinates>-105.521385,40.352458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Park Brewing Co (Rocky Top Pizza)</name>
+      <description>South Park Brewing Co (Rocky Top Pizza)</description>
+      <Point>
+        <coordinates>-105.99355,39.221233,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Mountain Brewery</name>
+      <description>Colorado Mountain Brewery</description>
+      <Point>
+        <coordinates>-104.799154,38.761105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1933 Brewing Co</name>
+      <description>1933 Brewing Co</description>
+      <Point>
+        <coordinates>-105.079442,40.532309,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anheuser - Busch Inc</name>
+      <description>Anheuser - Busch Inc</description>
+      <Point>
+        <coordinates>-105.001868,40.619635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Bottle Brewery</name>
+      <description>Black Bottle Brewery</description>
+      <Point>
+        <coordinates>-105.076841,40.566983,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C.B. &amp; Potts Restaurant &amp; Brewery</name>
+      <description>C.B. &amp; Potts Restaurant &amp; Brewery</description>
+      <Point>
+        <coordinates>-105.101033,40.574486,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Equinox Brewing</name>
+      <description>Equinox Brewing</description>
+      <Point>
+        <coordinates>-105.075606,40.586532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Freedom&#8217;s Edge Brewing Co</name>
+      <description>Freedom&#8217;s Edge Brewing Co</description>
+      <Point>
+        <coordinates>-105.075071,40.588218,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Funkwerks Brewing Co</name>
+      <description>Funkwerks Brewing Co</description>
+      <Point>
+        <coordinates>-105.129044,40.585429,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horse &amp; Dragon Brewing Co</name>
+      <description>Horse &amp; Dragon Brewing Co</description>
+      <Point>
+        <coordinates>-105.046231,40.589441,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pateros Creek Brewing Co</name>
+      <description>Pateros Creek Brewing Co</description>
+      <Point>
+        <coordinates>-105.077085,40.589794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rally King Brewing Co</name>
+      <description>Rally King Brewing Co</description>
+      <Point>
+        <coordinates>-105.058012,40.565876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramskeller Pub (Lory Student Center)</name>
+      <description>Ramskeller Pub (Lory Student Center)</description>
+      <Point>
+        <coordinates>-105.083706,40.573729,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Snowbank Brewing Co</name>
+      <description>Snowbank Brewing Co</description>
+      <Point>
+        <coordinates>-105.056778,40.586594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zwie Brewing Co</name>
+      <description>Zwie Brewing Co</description>
+      <Point>
+        <coordinates>-105.078928,40.523286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Echo Brewing Co</name>
+      <description>Echo Brewing Co</description>
+      <Point>
+        <coordinates>-105.158557,40.137525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Backcountry Brewery</name>
+      <description>Backcountry Brewery</description>
+      <Point>
+        <coordinates>-106.094583,39.576496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Copper Club Brewing Co</name>
+      <description>Copper Club Brewing Co</description>
+      <Point>
+        <coordinates>-108.732146,39.158952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Suds Brothers Brewery</name>
+      <description>Suds Brothers Brewery</description>
+      <Point>
+        <coordinates>-108.733003,39.158959,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barrels &amp; Bottles Brewery</name>
+      <description>Barrels &amp; Bottles Brewery</description>
+      <Point>
+        <coordinates>-105.219193,39.756575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cannonball Creek Brewing Co</name>
+      <description>Cannonball Creek Brewing Co</description>
+      <Point>
+        <coordinates>-105.22795,39.76252,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Golden City Brewery</name>
+      <description>Golden City Brewery</description>
+      <Point>
+        <coordinates>-105.222638,39.754747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mountain Toad Brewing Co</name>
+      <description>Mountain Toad Brewing Co</description>
+      <Point>
+        <coordinates>-105.224115,39.75832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kannah Creek Brewing Co</name>
+      <description>Kannah Creek Brewing Co</description>
+      <Point>
+        <coordinates>-108.552293,39.085166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kannah Creek Brewing Co (Edgewater Brewery Restaurant)</name>
+      <description>Kannah Creek Brewing Co (Edgewater Brewery Restaurant)</description>
+      <Point>
+        <coordinates>-108.557684,39.05574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Lake Brewing Co</name>
+      <description>Grand Lake Brewing Co</description>
+      <Point>
+        <coordinates>-105.821147,40.251996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Broken Plow Brewery</name>
+      <description>Broken Plow Brewery</description>
+      <Point>
+        <coordinates>-104.757767,40.420627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crabtree Brewing Co</name>
+      <description>Crabtree Brewing Co</description>
+      <Point>
+        <coordinates>-104.726885,40.389771,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pitchers Brewery &amp; Sports Shack</name>
+      <description>Pitchers Brewery &amp; Sports Shack</description>
+      <Point>
+        <coordinates>-104.696942,40.397332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WeldWerks Brewing Co</name>
+      <description>WeldWerks Brewing Co</description>
+      <Point>
+        <coordinates>-104.690698,40.428474,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wiley Roots Brewing Co</name>
+      <description>Wiley Roots Brewing Co</description>
+      <Point>
+        <coordinates>-104.687875,40.431322,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gunnison Brewery</name>
+      <description>Gunnison Brewery</description>
+      <Point>
+        <coordinates>-106.926856,38.544841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 Freaks Brewery</name>
+      <description>3 Freaks Brewery</description>
+      <Point>
+        <coordinates>-104.906022,39.566056,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C.B. &amp; Potts Restaurant &amp; Brewery</name>
+      <description>C.B. &amp; Potts Restaurant &amp; Brewery</description>
+      <Point>
+        <coordinates>-104.98854,39.562174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grist Brewing Co</name>
+      <description>Grist Brewing Co</description>
+      <Point>
+        <coordinates>-105.034097,39.54867,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Front Range Brewing Co</name>
+      <description>Front Range Brewing Co</description>
+      <Point>
+        <coordinates>-105.070771,39.986688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liquid Mechanics Brewing Co</name>
+      <description>Liquid Mechanics Brewing Co</description>
+      <Point>
+        <coordinates>-105.090598,39.975808,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Odd 13 Brewing Co</name>
+      <description>Odd 13 Brewing Co</description>
+      <Point>
+        <coordinates>-105.08806,39.99822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Post Brewing Co</name>
+      <description>Post Brewing Co</description>
+      <Point>
+        <coordinates>-105.090494,39.994351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caution Brewing Co</name>
+      <description>Caution Brewing Co</description>
+      <Point>
+        <coordinates>-105.081582,39.697462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>38 State Brewing Co</name>
+      <description>38 State Brewing Co</description>
+      <Point>
+        <coordinates>-104.988485,39.573472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Breckenridge Brewing Co</name>
+      <description>Breckenridge Brewing Co</description>
+      <Point>
+        <coordinates>-104.954485,39.639513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hops Grill &amp; Brewery</name>
+      <description>Hops Grill &amp; Brewery</description>
+      <Point>
+        <coordinates>-105.087216,39.609648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Living The Dream Brewing Co</name>
+      <description>Living The Dream Brewing Co</description>
+      <Point>
+        <coordinates>-105.038938,39.540315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Locavore Beer Works</name>
+      <description>Locavore Beer Works</description>
+      <Point>
+        <coordinates>-105.038327,39.607942,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Mill Brewery &amp; Grill</name>
+      <description>Old Mill Brewery &amp; Grill</description>
+      <Point>
+        <coordinates>-105.019805,39.612038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint Patrick&#8217;s Brewing Co</name>
+      <description>Saint Patrick&#8217;s Brewing Co</description>
+      <Point>
+        <coordinates>-105.024347,39.613123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lone Tree Brewing Co</name>
+      <description>Lone Tree Brewing Co</description>
+      <Point>
+        <coordinates>-104.894887,39.562976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>300 Suns Brewing Co</name>
+      <description>300 Suns Brewing Co</description>
+      <Point>
+        <coordinates>-105.08538,40.161619,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gro&#223;en Bart Brewery</name>
+      <description>Gro&#223;en Bart Brewery</description>
+      <Point>
+        <coordinates>-105.110313,40.155009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oskar Blues Brewery</name>
+      <description>Oskar Blues Brewery</description>
+      <Point>
+        <coordinates>-105.129329,40.138005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shoes &amp; Brews</name>
+      <description>Shoes &amp; Brews</description>
+      <Point>
+        <coordinates>-105.106623,40.160748,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skeye Brewing Co</name>
+      <description>Skeye Brewing Co</description>
+      <Point>
+        <coordinates>-105.130673,40.152417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crystal Springs Brewing Co</name>
+      <description>Crystal Springs Brewing Co</description>
+      <Point>
+        <coordinates>-105.119669,39.962779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gravity Brewing</name>
+      <description>Gravity Brewing</description>
+      <Point>
+        <coordinates>-105.129994,39.976869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Twelve Degree Brewing Co</name>
+      <description>Twelve Degree Brewing Co</description>
+      <Point>
+        <coordinates>-105.132216,39.977966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Beaver Brewing Co</name>
+      <description>Big Beaver Brewing Co</description>
+      <Point>
+        <coordinates>-105.112075,40.407441,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buckhorn Brewers</name>
+      <description>Buckhorn Brewers</description>
+      <Point>
+        <coordinates>-105.179966,40.364469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crow Hop Brewing Co</name>
+      <description>Crow Hop Brewing Co</description>
+      <Point>
+        <coordinates>-105.07438,40.394492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grimm Brothers Brewhouse</name>
+      <description>Grimm Brothers Brewhouse</description>
+      <Point>
+        <coordinates>-105.044548,40.407296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loveland Ale Works</name>
+      <description>Loveland Ale Works</description>
+      <Point>
+        <coordinates>-105.076807,40.395415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rock Bottom Restaurant - Brewery</name>
+      <description>Rock Bottom Restaurant - Brewery</description>
+      <Point>
+        <coordinates>-105.137418,40.416694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Verboten Brewing Co</name>
+      <description>Verboten Brewing Co</description>
+      <Point>
+        <coordinates>-105.094379,40.37202,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mancos Brewing Co</name>
+      <description>Mancos Brewing Co</description>
+      <Point>
+        <coordinates>-108.295509,37.347274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manitou Brewing Co</name>
+      <description>Manitou Brewing Co</description>
+      <Point>
+        <coordinates>-104.915486,38.857224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Boy Pizzeria &amp; Brewery</name>
+      <description>Colorado Boy Pizzeria &amp; Brewery</description>
+      <Point>
+        <coordinates>-107.877456,38.478836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horsefly Brewing Co</name>
+      <description>Horsefly Brewing Co</description>
+      <Point>
+        <coordinates>-107.87195,38.48269,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Two Rascals Brewing Co</name>
+      <description>Two Rascals Brewing Co</description>
+      <Point>
+        <coordinates>-107.879897,38.478673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pikes Peak Brewing Co</name>
+      <description>Pikes Peak Brewing Co</description>
+      <Point>
+        <coordinates>-104.859945,39.093986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Very Nice Brewing Co</name>
+      <description>Very Nice Brewing Co</description>
+      <Point>
+        <coordinates>-105.509705,39.96072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wild Mountain Smokehouse &amp; Brewery</name>
+      <description>Wild Mountain Smokehouse &amp; Brewery</description>
+      <Point>
+        <coordinates>-105.509432,39.961787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bootstrap Brewing</name>
+      <description>Bootstrap Brewing</description>
+      <Point>
+        <coordinates>-105.168995,40.097304,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Powder Keg Brewing Co</name>
+      <description>Powder Keg Brewing Co</description>
+      <Point>
+        <coordinates>-105.172854,40.103579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beer by Design Brewery</name>
+      <description>Beer by Design Brewery</description>
+      <Point>
+        <coordinates>-104.960219,39.899548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mr Grumpy Pants Brewing Co (Ourayle House Brewery)</name>
+      <description>Mr Grumpy Pants Brewing Co (Ourayle House Brewery)</description>
+      <Point>
+        <coordinates>-107.671435,38.023901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ouray Brewery</name>
+      <description>Ouray Brewery</description>
+      <Point>
+        <coordinates>-107.671425,38.022847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ouray Brewing Co</name>
+      <description>Ouray Brewing Co</description>
+      <Point>
+        <coordinates>-107.67855,38.037919,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pagosa Brewing Co</name>
+      <description>Pagosa Brewing Co</description>
+      <Point>
+        <coordinates>-107.08013,37.256498,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riff Raff Brewing Co</name>
+      <description>Riff Raff Brewing Co</description>
+      <Point>
+        <coordinates>-107.007408,37.26878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wolfe Brewing Co</name>
+      <description>Wolfe Brewing Co</description>
+      <Point>
+        <coordinates>-107.042267,37.270639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palisade Brewing Co</name>
+      <description>Palisade Brewing Co</description>
+      <Point>
+        <coordinates>-108.353246,39.112144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Revolution Brewing</name>
+      <description>Revolution Brewing</description>
+      <Point>
+        <coordinates>-107.597733,38.868929,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barnett &amp; Son Brewing Co</name>
+      <description>Barnett &amp; Son Brewing Co</description>
+      <Point>
+        <coordinates>-104.775276,39.521771,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elk Mountain Brewing</name>
+      <description>Elk Mountain Brewing</description>
+      <Point>
+        <coordinates>-104.769375,39.526755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hall Brewing Co</name>
+      <description>Hall Brewing Co</description>
+      <Point>
+        <coordinates>-104.696954,39.484654,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAKs Brewing Co</name>
+      <description>JAKs Brewing Co</description>
+      <Point>
+        <coordinates>-104.602644,38.943871,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elevation Beer Co</name>
+      <description>Elevation Beer Co</description>
+      <Point>
+        <coordinates>-106.065908,38.518065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walter Brewing Co</name>
+      <description>Walter Brewing Co</description>
+      <Point>
+        <coordinates>-104.609893,38.262767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Boy Pub &amp; Brewery</name>
+      <description>Colorado Boy Pub &amp; Brewery</description>
+      <Point>
+        <coordinates>-107.757628,38.152364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rifle Brewing Co (Sammy&#8217;s On Park Ave)</name>
+      <description>Rifle Brewing Co (Sammy&#8217;s On Park Ave)</description>
+      <Point>
+        <coordinates>-107.786899,39.532654,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amicas Pizza and Microbrewery</name>
+      <description>Amicas Pizza and Microbrewery</description>
+      <Point>
+        <coordinates>-105.992268,38.53526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moonlight Pizza</name>
+      <description>Moonlight Pizza</description>
+      <Point>
+        <coordinates>-105.992956,38.535124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boggy Draw Brewery</name>
+      <description>Boggy Draw Brewery</description>
+      <Point>
+        <coordinates>-105.005559,39.653478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bakers' Brewery</name>
+      <description>Bakers' Brewery</description>
+      <Point>
+        <coordinates>-106.068009,39.630246,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avalanche Brewing Co (Avalanche Coffee House &amp; Caf&#233;)</name>
+      <description>Avalanche Brewing Co (Avalanche Coffee House &amp; Caf&#233;)</description>
+      <Point>
+        <coordinates>-107.664596,37.809926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Golden Block Brewery</name>
+      <description>Golden Block Brewery</description>
+      <Point>
+        <coordinates>-107.664261,37.811892,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Butcherknife Brewing Co</name>
+      <description>Butcherknife Brewing Co</description>
+      <Point>
+        <coordinates>-106.857633,40.510775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mahogany Ridge Brewery &amp; Grill</name>
+      <description>Mahogany Ridge Brewery &amp; Grill</description>
+      <Point>
+        <coordinates>-106.830714,40.48374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Storm Peak Brewing Co</name>
+      <description>Storm Peak Brewing Co</description>
+      <Point>
+        <coordinates>-106.854266,40.49838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Telluride Brewing Co</name>
+      <description>Telluride Brewing Co</description>
+      <Point>
+        <coordinates>-107.877314,37.946754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dodgeton Creek Brewing Co</name>
+      <description>Dodgeton Creek Brewing Co</description>
+      <Point>
+        <coordinates>-104.489137,37.219765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vail Brewing Co</name>
+      <description>Vail Brewing Co</description>
+      <Point>
+        <coordinates>-106.412946,39.628222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kokopelli Beer Co</name>
+      <description>Kokopelli Beer Co</description>
+      <Point>
+        <coordinates>-105.064004,39.859271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rock Bottom Restaurant - Brewery</name>
+      <description>Rock Bottom Restaurant - Brewery</description>
+      <Point>
+        <coordinates>-105.072184,39.892446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rock Bottom Restaurant - Brewery</name>
+      <description>Rock Bottom Restaurant - Brewery</description>
+      <Point>
+        <coordinates>-104.993095,39.943094,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westminster Brewing Co</name>
+      <description>Westminster Brewing Co</description>
+      <Point>
+        <coordinates>-105.081652,39.892601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brewery Rickoli</name>
+      <description>Brewery Rickoli</description>
+      <Point>
+        <coordinates>-105.081478,39.77585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Plus Brew Pub</name>
+      <description>Colorado Plus Brew Pub</description>
+      <Point>
+        <coordinates>-105.074076,39.769444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Hops Brewery</name>
+      <description>High Hops Brewery</description>
+      <Point>
+        <coordinates>-104.943473,40.47937,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hideaway Park Brewery</name>
+      <description>Hideaway Park Brewery</description>
+      <Point>
+        <coordinates>-105.783644,39.917072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Library Sports Grille and Brewery</name>
+      <description>Library Sports Grille and Brewery</description>
+      <Point>
+        <coordinates>-105.786076,39.92217,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ute Pass Brewing Co</name>
+      <description>Ute Pass Brewing Co</description>
+      <Point>
+        <coordinates>-105.051428,38.994526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodland Park Brewing Co (BierWerks Brewery)</name>
+      <description>Woodland Park Brewing Co (BierWerks Brewery)</description>
+      <Point>
+        <coordinates>-105.05156,38.994598,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
