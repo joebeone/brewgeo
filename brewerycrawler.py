@@ -63,7 +63,7 @@ def cheers(state):
     try:
         r = urllib2.urlopen("http://www.bcca.com/services/pf/usbl_%s.asp" % state)
         r.encoding = 'windows-1252'
-    except urllib.HTTPError:
+    except urllib2.HTTPError:
         print "Could not access site...moving to back files"
         r = open("brewgeo/bcca_pages/BCCA_MI.html", "r")
 
