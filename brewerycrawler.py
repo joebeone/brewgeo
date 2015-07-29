@@ -61,9 +61,10 @@ def cheers(state):
     print "Getting brewery page for %s ...." % state
 
     try:
-        t = open("brewgeo/bcca_pages/BCCA_MI.html", "r")
-        r = urllib2.urlopen("http://www.bcca.com/services/pf/usbl_%s.asp" % state)
+        r = urllib2.urlopen("http://www.bcca.com/services/pf/usbl_%s.asp"
+                            % state)
         r.encoding = 'windows-1252'
+
     except urllib2.HTTPError:
         print "Could not access site...moving to back html files"
         r = open("brewgeo/bcca_pages/BCCA_%s.html" %state, "r")
@@ -72,12 +73,12 @@ def cheers(state):
     html_tables = html.find_all(id="table4")
     print "Scraping Tables...."
     breweries = get_breweries(html_tables)
-    print "Generating KML File"
+    print "Generating KML File..."
     kml = generate_kml(breweries)
     kml_file = open("brewgeo/kml/%s_BCCA_Breweries.kml" % state, "w")
     kml_file.write(kml)
     kml_file.close()
-    print "KML file saved"
+    print "KML file saved!"
 
 
 if __name__ == "__main__":
