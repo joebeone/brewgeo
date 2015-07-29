@@ -59,8 +59,14 @@ def get_breweries(html_tables):
 
 def cheers(state):
     print "Getting brewery page for %s ...." % state
-    r = urllib2.urlopen("http://www.bcca.com/services/pf/usbl_%s.asp" % state)
-    r.encoding = 'windows-1252'
+
+    try:
+        r = urllib2.urlopen("http://www.bcca.com/services/pf/usbl_%s.asp" % state)
+        r.encoding = 'windows-1252'
+    except urllib.HTTPError:
+        print "Could not access site...moving to back files"
+        r = open("brewgeo/bcca_pages/BCCA_MI.html", "r")
+
     html = BeautifulSoup(r)
     html_tables = html.find_all(id="table4")
     print "Scraping Tables...."
